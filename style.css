@@ -1,0 +1,13 @@
+header {
+    background-color: rgb(17, 65, 156);
+    color: aliceblue;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+main{
+    background-color: rgb(17, 64, 151);
+    
+}
